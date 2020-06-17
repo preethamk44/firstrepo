@@ -1,3 +1,7 @@
 First file
 first edit
+<<<<<<< HEAD
 second edit
+=======
+cbkjdc bkj
+>>>>>>> fetch

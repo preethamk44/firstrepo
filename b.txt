@@ -1,4 +1,8 @@
 adffjvbhjbv
 merge conflict line
 ghijk
+<<<<<<< HEAD
 conflict edit
+=======
+dmvnkmd kjd
+>>>>>>> fetch
